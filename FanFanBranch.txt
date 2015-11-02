@@ -1,2 +1,2 @@
-This is feature1 in master
+This is feature2 in master
 
